@@ -116,7 +116,7 @@ const Dashboard = () => {
                     <span className='text-gray-400 font-bold'>Client</span>
                     <li className='mb-1 group'>
                         <Link
-                            to={`/home`}
+                            to={`/`}
                             className='flex font-semibold items-center py-2 px-4 text-gray-900 hover:bg-[#030712] hover:text-gray-100 rounded-md group-[.active]:bg-gray-800 group-[.active]:text-white group-[.selected]:bg-gray-950 group-[.selected]:text-gray-100'
                         >
                             <i className='ti-home mr-3 text-lg'></i>

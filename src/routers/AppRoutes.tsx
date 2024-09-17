@@ -28,8 +28,7 @@ const AppRoutes = () => {
             path: '/',
             element: <Client />,
             children: [
-                { path: '/', element: <Navigate to='home' /> },
-                { path: 'home', element: <Home /> },
+                { path: '/', element: <Home /> },
                 { path: 'search', element: <Search /> },
                 { path: 'detail/:id', element: <Detail /> },
                 { path: 'category/:id', element: <Category /> },
@@ -49,8 +48,7 @@ const AppRoutes = () => {
                 </PrivateRoutes>
             ),
             children: [
-                { path: '', element: <Navigate to='overview' /> },
-                { path: 'overview', element: <Overview /> },
+                { path: '', element: <Overview /> },
                 { path: 'products', element: <ProductsList /> },
                 { path: 'users', element: <UsersList /> },
                 { path: 'brands', element: <BrandsList /> },

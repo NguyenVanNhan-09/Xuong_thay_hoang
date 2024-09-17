@@ -1,21 +1,6 @@
 {
   "Products": [
     {
-      "id": 140,
-      "name": "Speed Sneaker in Black",
-      "brand": "3",
-      "gender": "MEN",
-      "category": "1",
-      "price": 90,
-      "description": "• Sock-like design\n• Technical 3D knit\n• Black sole\n• Ultra-flexible molded sole\n• Ergonomic sole with \"No Memory\" technology\n• Extra light, nearly barefoot feel\n• White logo at side\n• Embossed logo on the back of the sole\n• Made in Serbia",
-      "is_in_inventory": true,
-      "thumbnail": "http://res.cloudinary.com/dbaq8kdwn/image/upload/v1723906737/edz13mkp4dp67thws9di.avif",
-      "images": [
-        "http://res.cloudinary.com/dbaq8kdwn/image/upload/v1723906742/br5hh0hwlinfljdhurap.jpg",
-        "http://res.cloudinary.com/dbaq8kdwn/image/upload/v1723906742/njfmwy5w1kbgidni47af.avif"
-      ]
-    },
-    {
       "name": "Nike P-6000",
       "brand": "1",
       "price": 60,
@@ -145,7 +130,7 @@
       "category": "1",
       "gender": "MAN-WOMEN",
       "description": "Embrace the hilly terrain in the Juniper Trail 3. Our Trail ATC outsole helps keep you upright for your trails. And we made the midsole and upper softer and more flexible compared with the previous iteration.",
-      "is_in_inventory": false,
+      "is_in_inventory": true,
       "images": [
         "http://res.cloudinary.com/dbaq8kdwn/image/upload/v1723917157/gokkd7hofdwc79kzgu5y.webp",
         "http://res.cloudinary.com/dbaq8kdwn/image/upload/v1723917158/iedssbiekutgujieh1wl.webp"
@@ -167,21 +152,6 @@
       ],
       "thumbnail": "http://res.cloudinary.com/dbaq8kdwn/image/upload/v1723917496/mxvbkewozhylztvbpcb1.webp",
       "id": 1250
-    },
-    {
-      "name": "Nike Precision 7",
-      "brand": "1",
-      "price": 210,
-      "category": "1",
-      "gender": "MAN-WOMEN",
-      "description": "Score at will at the rim or from deep in the Nike Precision 7. Crafted with a combination of ground control, comfort and on-court traction, it's perfect for instant impact plays when your name is called for the next casual game. Check in and make the plays that swing the outcome in your favour.",
-      "is_in_inventory": true,
-      "images": [
-        "http://res.cloudinary.com/dbaq8kdwn/image/upload/v1723917618/ovesy7kmsbkw4xzxwixj.jpg",
-        "http://res.cloudinary.com/dbaq8kdwn/image/upload/v1723917619/u7ea9rvthk2mzuugvv2r.webp"
-      ],
-      "thumbnail": "http://res.cloudinary.com/dbaq8kdwn/image/upload/v1723917613/jruttq85gasfl10tamdr.jpg",
-      "id": 1251
     },
     {
       "name": "Men's Fluid Coat in Grey/black",

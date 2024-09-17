@@ -14,15 +14,6 @@ const scrollToTop = () => {
     })
 }
 const Product = ({ data }: Props) => {
-    // const { HandleAddCart } = useContext(cartCT)
-    // const onHandleAddCart = (data: TProduct) => {
-    //     if (data.is_in_inventory) {
-    //         const { id, name, brand, gender, price, thumbnail } = data
-    //         HandleAddCart({ id, name, brand, gender, price, thumbnail })
-    //     } else {
-    //         toast.warn('The product is out of stock.', { position: 'top-center' })
-    //     }
-    // }
     return (
         <>
             <div className='border border-[#B6B6B6] shadow-md overflow-hidden rounded-[19.67px] cursor-pointer hover:-translate-y-2 transition-all relative event_hover min-h-[332px]'>
